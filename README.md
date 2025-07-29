@@ -47,5 +47,5 @@
 ## 📫 Reach Me
 - [LinkedIn](https://linkedin.com/in/akhila-vulluri)  
 - [GitHub](https://github.com/AkhilaVulluri)  
-- 📧 Email: akhilavulluri97@gmail.com  
+- 📧 Email: akhilavulluri19@gmail.com  
 - 📄 [Resume](https://github.com/AkhilaVulluri/Career-Achievements/blob/main/Vulluri%20Akhila%20Resume.pdf)  
