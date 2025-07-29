@@ -28,6 +28,8 @@
 - ⚙️ Real-time system validation using CAN Protocols, LABCAR, and MATLAB/Simulink  
 - 📊 Data analysis: energy loss modeling, weight distribution, and performance metrics  
 
+---
+
 ## 🔧 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat)
@@ -38,14 +40,31 @@
 ![LABCAR](https://img.shields.io/badge/-LABCAR-3776AB?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
 ## 📌 Pinned Projects
-- 🎮 [Tic-Tac-Toe game in C on Linux](https://github.com/AkhilaVulluri/Tic-Tac-Toe-game-using-C-on-Linux.git)
-- 🚌 [Bus Reservation System in C++](https://github.com/AkhilaVulluri/Bus-Reservation-System-Project.git)
-- 📄 [Career Achievements – Certifications](https://github.com/AkhilaVulluri/Career-Achievements.git)
+- 🎮 [Tic-Tac-Toe game in C on Linux](https://github.com/AkhilaVulluri/Tic-Tac-Toe-game-using-C-on-Linux)
+- 🚌 [Bus Reservation System in C++](https://github.com/AkhilaVulluri/Bus-Reservation-System-Project)
+- 📄 [Career Achievements – Certifications](https://github.com/AkhilaVulluri/Career-Achievements)
 - 📊 [Presentation Materials](https://github.com/AkhilaVulluri/Presentation-.git)
+
+---
+
+
+## 📊 GitHub Stats
+![Akhila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilaVulluri&show_icons=true&theme=default&hide=contribs,prs&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaVulluri&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=AkhilaVulluri&theme=flat&no-frame=true&column=4)
+
+---
 
 ## 📫 Reach Me
 - [LinkedIn](https://linkedin.com/in/akhila-vulluri)  
 - [GitHub](https://github.com/AkhilaVulluri)  
-- 📧 Email: akhilavulluri19@gmail.com  
+- 📧 Email: akhilavulluri97@gmail.com  
 - 📄 [Resume](https://github.com/AkhilaVulluri/Career-Achievements/blob/main/Vulluri%20Akhila%20Resume.pdf)  
